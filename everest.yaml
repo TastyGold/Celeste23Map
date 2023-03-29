@@ -1,0 +1,7 @@
+- Name: Phoebe23Map
+  Version: 0.0.1
+  Dependencies:
+    - Name: Everest
+      Version: 1.3828.0
+    - Name: VivHelper
+      Version: 1.10.13
